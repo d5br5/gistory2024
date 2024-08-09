@@ -4,9 +4,9 @@
 
 ## 설치
 
-설치된 python version : 3.12.4
+### python version : 3.12.4
 
-gistory2024를 설치하고자 하는 폴더로 이동하여, 본 레포지토리를 clone합니다.
+설치하고자 하는 폴더로 이동하여, 본 레포지토리를 clone합니다.
 
 ```bash
 git clone https://github.com/d5br5/gistory2024.git
