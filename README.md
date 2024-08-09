@@ -4,6 +4,8 @@
 
 ## 설치
 
+설치된 python version : 3.12.4
+
 gistory2024를 설치하고자 하는 폴더로 이동하여, 본 레포지토리를 clone합니다.
 
 ```bash
@@ -27,9 +29,13 @@ python3 ../gistory2024/main.py .git
 
 원래 소스코드는 생활코딩 이고잉님이 제작해주셨습니다.
 
+원본 레포지토리 링크 : [https://github.com/egoing/gistory](https://github.com/egoing/gistory)
+
 마지막 업데이트일로부터 7년이 흘러, 최신 python 버전과 호환이 되지 않는 현상이 발생하고 있었습니다.
 
 현재 레포는, 최신 파이썬 버전에서도 동작하도록 업데이트된 버전입니다.
+
+[분석 도구 사용 방법 영상 (이고잉님 유튜브)](https://www.youtube.com/watch?v=KyGfapLpWhY)
 
 ## TBD
 
